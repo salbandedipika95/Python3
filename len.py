@@ -1,3 +1,3 @@
-#python program to find length of a tuple
-tup=(1,2,3,4,5)
-print(len(tup))
+#python program to find length of a set
+set1={10,20,30,40,50,60}
+print('length of a string=',len(set1))
