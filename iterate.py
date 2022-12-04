@@ -1,5 +1,4 @@
-#python program to iterate over sets
-set1={3,4,5,2}
-print(set1)
-for i in set1:
+#python program to iterate over dictionaries using for loops
+d={1:"one",2:"two",3:"three"}
+for i in d:
     print(i,end=" ")
